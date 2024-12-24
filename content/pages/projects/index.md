@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Games
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
