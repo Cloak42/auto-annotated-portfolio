@@ -10,38 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: board Game haven
-    subtitle: A Catalogue of Board Games
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-2
-          - pr-2
-        alignItems: flex-start
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -80,6 +48,38 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: New Games!
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: board Game haven
+    subtitle: A Catalogue of Board Games
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-2
+          - pr-2
+        alignItems: flex-start
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
