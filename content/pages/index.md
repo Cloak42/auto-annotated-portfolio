@@ -26,7 +26,7 @@ sections:
           - mr-0
         padding:
           - pt-24
-          - pb-48
+          - pb-24
           - pl-2
           - pr-2
         alignItems: flex-start
