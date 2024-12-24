@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "games catalogue",
-                "url": "/info",
+                "url": "/projects",
                 "iconPosition": "right"
             },
             {
