@@ -70,7 +70,7 @@ sections:
         padding:
           - pt-24
           - pb-24
-          - pl-0
+          - pl-4
           - pr-0
         justifyContent: center
       title:
