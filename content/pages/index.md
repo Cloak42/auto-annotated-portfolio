@@ -50,7 +50,7 @@ sections:
         label: See all Games
         url: /projects
     showDate: true
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
