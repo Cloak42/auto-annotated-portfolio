@@ -14,7 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: board Game haven
-    subtitle: A Catalogue of Board Games
+    subtitle: The Catalogue of Board Games
     styles:
       self:
         height: auto
