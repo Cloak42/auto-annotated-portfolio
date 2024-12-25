@@ -49,7 +49,7 @@ sections:
       - type: Link
         label: See all Games
         url: /projects
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
