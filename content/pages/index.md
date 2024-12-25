@@ -79,7 +79,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: New Games!
+    subtitle: ''
     title: New Games!
   - type: FeaturedPostsSection
     elementId: ''
