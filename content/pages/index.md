@@ -80,6 +80,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: New Games!
+    title: New Games!
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-a
