@@ -83,7 +83,7 @@ sections:
     title: 'New Games:'
   - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-a
+    colors: colors-e
     variant: variant-d
     subtitle: Featured Posts
     showFeaturedImage: false
