@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     title: board Game haven
     subtitle: A Catalogue of Board Games
     styles:
